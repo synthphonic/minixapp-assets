@@ -1,0 +1,2 @@
+# minixapp-assets
+minixapp-assets
